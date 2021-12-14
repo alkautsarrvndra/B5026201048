@@ -14,7 +14,7 @@ class hewanController extends Controller
 		$hewan = DB::table('hewan')->get();
  
     	// mengirim data hewan ke view index
-		return view('index',['hewan' => $hewan]);
+		return view('hewan.index',['hewan' => $hewan]);
  
 	}
  
@@ -23,7 +23,7 @@ class hewanController extends Controller
 	{
  
 		// memanggil view tambah
-		return view('tambah');
+		return view('hewan.tambah');
  
 	}
  
