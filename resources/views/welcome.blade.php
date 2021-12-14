@@ -88,10 +88,11 @@
                     <a href="5026201048tugas1.html">tugas1</a>
                     <a href="5026201048tugas2.html">tugas2</a>
                     <a href="5026201048tugas3.html">tugas3</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="5026201048praktikum1.html">praktikum1</a>
+                    <a href="5026201048tugas4.html">tugas4</a>
+                    <a href="5026201048praktikum2.html">praktikum2</a>
+                    <a href="5026201048ets.html">ets</a>
+                    <a href="5026201048tugasphp.php">tugasphp</a>
                 </div>
             </div>
         </div>
