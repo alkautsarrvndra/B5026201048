@@ -42,3 +42,5 @@ Route::post('/hewan/store','hewanController@store');
 Route::get('/hewan/edit/{id}','hewanController@edit');
 Route::post('/hewan/update','hewanController@update');
 Route::get('/hewan/hapus/{id}','hewanController@hapus');
+
+Route::get('/pagecounter','pagecounterController@index');
