@@ -23,7 +23,7 @@ class hewanController extends Controller
 	{
  
 		// memanggil view tambah
-		return view('.tambah');
+		return view('hewan.tambah');
  
 	}
  
